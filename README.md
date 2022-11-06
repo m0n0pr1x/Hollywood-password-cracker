@@ -1,5 +1,5 @@
 # wargames_password_cracker
-The same password cracker as in the movie Wargames by John Badham
+The same password cracker as in the movie Wargames by John Badham  
 Hollywood Style
 
 Photos:
@@ -8,4 +8,8 @@ Photos:
 
 Dependencies:
 tkinter
+
+Translation:
+English: 0%
+French: 100%
 
