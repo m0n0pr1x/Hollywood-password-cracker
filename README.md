@@ -9,7 +9,7 @@ Photos:
 Dependencies:
 tkinter
 
-Translation:
-English: 0%
-French: 100%
+Translation:  
+English: 0%  
+French: 100%  
 
